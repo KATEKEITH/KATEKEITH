@@ -1,6 +1,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=soft&color=31A8FF&height=150&section=header&text=simeunji&fontSize=70&animation=twinkling) -->
 
-<!-- ### Hi there 👋 -->
+### Hi there 👋
 
 
 <!--
