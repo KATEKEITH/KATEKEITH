@@ -1,11 +1,15 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=soft&color=31A8FF&height=150&section=header&text=simeunji&fontSize=70&animation=twinkling) -->
 
-### 안녕하세요. 심은지입니다. 😄
+🤞 Nice way to meet me
+   
 
-- 직위 및 포지션에 관계없이 적극적으로 생각을 표현합니다.
-- 커뮤니케이션은 적은 것보다는 많은게 좋다고 믿습니다.
-- 항상 최신의 기술이 옳다고 여기지 않습니다. 상황에 따라 적절한 선택이 있다고 믿습니다.
-- 업무에 필요하다면 능숙한 분야가 아니더라도 적극적으로 탐색하여 최적의 결과를 낼 수 있도록 노력합니다.
+👋  Hi there! I'm full stack developer skilled in API, WEB.🚀<br/>
+I have experience 5 years development. <br/>
+At present, I have been interested in creating Program faithful to the basics. <br/>
+<br/>
+I enjoy hiking, swimming, dive and surf. ⛰ 🏄 <br/>
+I hope to develop every beautiful things. ✨
+   
 
 
 <!--
