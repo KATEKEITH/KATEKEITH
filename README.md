@@ -3,8 +3,10 @@
 ### 🤞 Nice way to meet me, I'm Eunji
 
 <p>
-  <a href="[https://www.linkedin.com/in/%EC%9D%80%EC%A7%80-%EC%8B%AC-152b8b200/](https://medium.com/@simbomi06)" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+<!--   <a href="[https://www.linkedin.com/in/%EC%9D%80%EC%A7%80-%EC%8B%AC-152b8b200/](https://medium.com/@simbomi06)" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a> -->
+  
   <a href="https://www.linkedin.com/in/%EC%9D%80%EC%A7%80-%EC%8B%AC-152b8b200/" target="_blank"><img src="https://img.shields.io/badge/EunjiSim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  
  <a href="mailto:simbomi06@gmail.com" target="_blank"><img src="https://img.shields.io/badge/simbomi06@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
