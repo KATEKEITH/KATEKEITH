@@ -12,9 +12,6 @@
 I have experience 5 years development. <br/>
 At present, I have been interested in creating Program faithful to the basics. <br/>
 <br/>
-I enjoy hiking, swimming, dive and surf. ⛰ 🏄 <br/>
-I hope to develop every beautiful things. ✨
-   
 
 ### 💪 Skills
 <!-- #### Platforms & Languages -->
