@@ -8,7 +8,7 @@
  <a href="mailto:simbomi06@gmail.com" target="_blank"><img src="https://img.shields.io/badge/simbomi06@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
- Hi there! I'm full stack developer skilled in API, WEB.🚀<br/>
+ Hi there! I'm developer skilled in API, WEB.🚀<br/>
 I have experience 5 years development. <br/>
 At present, I have been interested in creating Program faithful to the basics. <br/>
 <br/>
