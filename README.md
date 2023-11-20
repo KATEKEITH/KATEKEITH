@@ -8,10 +8,13 @@
  <a href="mailto:simbomi06@gmail.com" target="_blank"><img src="https://img.shields.io/badge/simbomi06@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
- Hi there! I'm developer skilled in API, WEB.🚀<br/>
-I have experience 4 years development. <br/>
-At present, I have been interested in creating Program faithful to the basics. <br/>
+좋은 개발 문화를 배우고 전파하는 개발자이고 싶습니다. <br/>
+
+언어와 프레임워크에 구애받지 않는 개발자가 되는 것이 목표입니다. 언어의 특징과 철학에 맞는 코드를 작성하기 위해 노력합니다.
 <br/>
+
+🌱 I’m currently learning or reading: ['Real MySQL', Spring Batch, 'Kubernetes'] <br/>
+🤔 I'm interested in OOP, API Documentation, Agile <br/>
 
 ### 💪 Skills
 <!-- #### Platforms & Languages -->
