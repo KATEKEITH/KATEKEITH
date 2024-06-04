@@ -13,7 +13,7 @@
 언어의 특징과 철학에 맞는 코드를 작성하기 위해 노력합니다.
 <br/>
 
-### 💪 Skills
+### Skills
 <!-- #### Platforms & Languages -->
 <!-- <p>
   <img src="https://img.shields.io/badge/Java-4695EB?style=flat-square&logo=Quarkus&logoColor=white"/>
