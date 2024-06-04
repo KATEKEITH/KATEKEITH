@@ -4,17 +4,14 @@
 
 <p>
 <!--   <a href="[https://www.linkedin.com/in/%EC%9D%80%EC%A7%80-%EC%8B%AC-152b8b200/](https://medium.com/@simbomi06)" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a> -->
-  <a href="https://www.linkedin.com/in/eunji-sim-152b8b200/" target="_blank"><img src="https://img.shields.io/badge/EunjiSim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>  
- <a href="mailto:simbomi06@gmail.com" target="_blank"><img src="https://img.shields.io/badge/simbomi06@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<!--   <a href="https://www.linkedin.com/in/eunji-sim-152b8b200/" target="_blank"><img src="https://img.shields.io/badge/EunjiSim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>   -->
+<!--  <a href="mailto:simbomi06@gmail.com" target="_blank"><img src="https://img.shields.io/badge/simbomi06@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> -->
 </p>
 
 좋은 개발 문화를 배우고 전파하는 개발자이고 싶습니다. <br/>
 언어와 프레임워크에 구애받지 않는 개발자가 되는 것이 목표입니다. <br/>
 언어의 특징과 철학에 맞는 코드를 작성하기 위해 노력합니다.
 <br/>
-
-🌱 I’m currently learning or reading: ['Real MySQL', Spring Batch, 'Kubernetes'] <br/>
-🤔 I'm interested in OOP, API Documentation, Agile <br/>
 
 ### 💪 Skills
 <!-- #### Platforms & Languages -->
@@ -33,7 +30,6 @@
    <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white"> -->
 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/spring-blue?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"> <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">  
-
 <img src="https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/redis-red?style=for-the-badge&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apache kafka&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white">
 </p>
 
