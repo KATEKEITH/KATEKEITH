@@ -1,7 +1,7 @@
 Hi, I'm @KATEKEITH
 
-📝 2025 Reflection 작성하는 중입니다
-→ https://rift-pigeon-2af.notion.site/2025-2afc919e38ed80ec8296c8d2485b51bf
+📝 2025년 Reflection 작성하는 중입니다 <br/>
+https://rift-pigeon-2af.notion.site/2025-2afc919e38ed80ec8296c8d2485b51bf
 
 👩🏻‍💻 I'm a software engineer with a decade of experience in business <br/>
 ✨ My goal is to leverage my adaptable skillset to make a meaningful impact in technology <br/>
